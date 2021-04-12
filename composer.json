@@ -1,0 +1,12 @@
+{
+    "name": "techjourney/symfonydb2foridriver",
+    "description": "DB2 for i driver for PHP Symfony framework",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [{
+        "name": "Ing. Carlos Pérez",
+        "email": "ingcarlosperez@gmail.com"
+    }],
+    "require": {},
+
+}
