@@ -8,5 +8,9 @@
         "email": "ingcarlosperez@gmail.com"
     }],
     "require": {},
-
+    "autoload": {
+        "psr-4": {
+            "App\\DBAL\\": "src/DBAL/"
+        }
+    }
 }
